@@ -1,0 +1,12 @@
+.cart{
+    border: 1px solid yellow;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 15px;
+}
+
+.cart img{
+    width: 100%;
+    border-radius: 15px;
+    border-radius: 15px;
+}

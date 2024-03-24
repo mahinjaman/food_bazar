@@ -1,0 +1,13 @@
+.foodsContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid rgba(128, 128, 128, 0.533);
+    border-radius: 15px;
+}
+
+.cartContainer{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+}
